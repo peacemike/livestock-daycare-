@@ -1,20 +1,4 @@
 
-// const contactForm = document.getElementById('contactForm');
-
-// contactForm.addEventListener('submit', (event) => {
-    
-//     event.preventDefault();
-  
-// });
-
-
-// const projects = document.querySelectorAll('.project');
-// projects.forEach(project => {
-//     project.addEventListener('mouseover', () => {
-      
-//     });
-// });
-
 
 
 
